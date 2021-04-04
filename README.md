@@ -31,7 +31,7 @@ ____________________________________________
  
 ### Pictures/Usage
 
-Picture of the main page without using search filter:
+Picture of the main page without using search filter, you can also hover over the column titles and use the carrot that appears to sort the employees:
 ![mainpic](https://user-images.githubusercontent.com/70537665/113497283-73f08280-94b7-11eb-9c7c-fd56fd2076a1.png)<br>
 
 Picture of page using search filter:
