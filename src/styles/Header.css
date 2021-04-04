@@ -6,9 +6,10 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: center;
-    height: 161px;
+    height: 395px;
     width: 100%;
     text-align: center;
     border-bottom: 5px solid black;
+    border-top: 5px solid black;
     margin-bottom: 10px;
 }
